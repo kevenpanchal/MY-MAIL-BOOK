@@ -1,0 +1,9 @@
+@media(min-width:600px) {
+
+    #my_card {
+
+        height: '20vh';
+        width: '50vh';
+
+    }
+}
